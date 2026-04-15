@@ -49,6 +49,7 @@ export function Footer() {
           <div className="flex gap-4 text-xs text-[var(--color-text-muted)]">
             <Link href="https://openclawconsultant.com" className="hover:text-[var(--color-text-secondary)] transition-colors" target="_blank" rel="noopener">OpenClaw Consultant</Link>
             <Link href="https://novasoftai.com" className="hover:text-[var(--color-text-secondary)] transition-colors" target="_blank" rel="noopener">NovaSoft AI</Link>
+            <Link href="https://cyndra.ai" className="hover:text-[var(--color-text-secondary)] transition-colors" target="_blank" rel="noopener">Built with Cyndra AI</Link>
           </div>
         </div>
       </div>
