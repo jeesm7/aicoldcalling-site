@@ -43,3 +43,6 @@ next-env.d.ts
 node_modules/
 .next/
 .vercel/
+
+# Local Netlify folder
+.netlify

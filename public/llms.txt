@@ -1,0 +1,44 @@
+# Duvox - AI Cold Calling Software
+
+> Duvox is AI cold calling software that sounds human. Full-duplex voice AI for real estate teams. Your AI SDR calls leads, qualifies them, and books appointments automatically.
+
+Duvox uses full-duplex voice AI technology for natural, human-like phone conversations. Unlike traditional AI calling solutions that have robotic pauses, Duvox enables real-time two-way conversation just like talking to a human sales rep.
+
+## Main Pages
+
+- / : Homepage - AI cold calling software overview
+- /guide : Complete guide to AI cold calling
+- /blog : Educational articles on AI SDR and voice AI
+- /use-cases/real-estate : Real estate-specific AI cold calling solution
+
+## Comparison Pages
+
+- /vs/retell-ai : Duvox vs Retell AI comparison
+- /vs/bland-ai : Duvox vs Bland AI comparison
+- /vs/vapi : Duvox vs Vapi comparison
+
+## Key Features
+
+- Full-duplex voice AI (no robotic pauses)
+- Lead qualification automation
+- Appointment booking
+- CRM integration
+- Campaign management
+- Real estate industry focus
+
+## Blog Topics
+
+- What is an AI SDR
+- Full duplex voice AI explained
+- How AI cold calling works
+- AI cold calling for real estate
+- ROI of AI outbound calling
+
+## Related
+
+- NovaSoft AI: https://novasoftai.com - AI automation agency (parent company)
+- OpenClaw Consultant: https://openclawconsultant.com - AI consulting
+
+## Contact
+
+Founded by Jess Mason. Contact via https://aicoldcallingsoftware.com or book at https://cal.com/jess-mason/openclaw-consultation
